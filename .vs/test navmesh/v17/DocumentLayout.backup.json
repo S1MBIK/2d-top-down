@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\uniti\\test navmesh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|e:\\uniti\\test navmesh\\assets\\scripts\\boss\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\enemies\\boss\\enemyhealthboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\boss\\enemyhealthboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\weapon\\staff\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\staff\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\map\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\ui\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scenes\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.24930\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|E:\\uniti\\test navmesh\\assets\\scripts\\map\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1DCDE5-353C-CC43-D694-EFEB52B3E61C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.10256\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.26607\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Boss\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss\\Boss.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Boss\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss\\Boss.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:17:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyHealthBoss.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\Boss\\EnemyHealthBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Boss\\EnemyHealthBoss.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\Boss\\EnemyHealthBoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Boss\\EnemyHealthBoss.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:52:06.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:17:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Knockback.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\Knockback.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:30:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAi.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\EnemyAi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyAi.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Enemies\\EnemyAi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyAi.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:16:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:23:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EconomyManager.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\EconomyManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:20:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIFade.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Map\\UIFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\UIFade.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Map\\UIFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\UIFade.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:02:06.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:06:13.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Weapon\\Staff\\Staff.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Staff\\Staff.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Weapon\\Staff\\Staff.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Staff\\Staff.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:37:52.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActiveWeapon.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\UI\\ActiveWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ActiveWeapon.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\UI\\ActiveWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ActiveWeapon.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:48:45.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PauseGame.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\PauseGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseGame.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\PauseGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseGame.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:55:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Map\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\CameraController.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Map\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\CameraController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:47:46.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActiveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.24930\\ActiveInventory.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.24930\\ActiveInventory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActiveInventory.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:12.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickup.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scripts\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickup.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1sAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:58:41.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.26607\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.26607\\PlayerHealth.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:36.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\uniti\\test navmesh\\Assets\\Scenes\\Menu\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Menu\\MenuController.cs",
+              "ToolTip": "E:\\uniti\\test navmesh\\Assets\\Scenes\\Menu\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Menu\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:43:05.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.10256\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0440\u0438\u0433\u043E\u0436\u0438\u043D \u0416\u0435\u043D\u044F\\AppData\\Local\\Temp\\Rar$DIa22200.10256\\PlayerController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:56:33.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
